@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+{{template "head.gohtml"}}
+<body>
+{{template "navBar.gohtml"}}
+<main>
+  <ol class="randomListOL">
+      {{range .}}
+        <li class="randomList">
+
+          <div class="randomInfo">
+            <a class="blogListLink" href=/random/{{.URLTitle}}>
+                {{.Title}}
+                <time>
+                {{.Date.Format "Jan 02, 2006"}}
+            </time>
+            </a>
+            
+          </div>
+
+        </li>
+      {{end}}
+  </ol>
+</main>
+{{/* {{template "footer.gohtml"}} */}}
+</body>
+</html>
