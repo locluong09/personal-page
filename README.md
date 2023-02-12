@@ -1,1 +1,1 @@
-This repo is an example of how to copy, past, and tweak to make a personal page. I'm very new to Go and web development, but able to make a simple page for my writing purpose!
+This repo is an example of how to copy, past, and tweak (with approvement) to make a personal page. I'm very new to Go and web development, but able to make a simple page for my writing purpose! (Original source is from Riya Dattani)
