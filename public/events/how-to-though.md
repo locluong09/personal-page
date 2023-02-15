@@ -1,4 +1,4 @@
-How to think?
+Thinking
 2023-Feb-14
 Link
 Random thought
