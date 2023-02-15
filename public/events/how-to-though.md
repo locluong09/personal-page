@@ -1,4 +1,4 @@
-Những gì thuộc về bạn
+How to think?
 2023-Feb-14
 Link
 Random thought
@@ -13,4 +13,4 @@ Comeback to the question that how to have independent thought and be creative? P
 
 Another approach is stealing some other’s idea, and then cook them by your recipe, then produce in a subtle way, then it may be an independent thought.
 
-For me, independent thought doesn’t mean you need to go outside of the box nor improving some inside of the box. It’s the honesty from yourself, your own thought and own ideas that come from yours. Even though your ideas aren’t not really good, but that’s independent thought! And it’s not too hard to have that, I ponder?
+For me, independent thought doesn’t mean you need to go outside of the box nor improving some inside of the box. It’s the honesty from yourself, your own thought and own ideas that come from yours. Even though your idea isn't really good, but that’s your thought! And it’s not too hard to have that, I ponder?
